@@ -23,12 +23,11 @@ I'm a Javascript Developer💻. I'm a passionate learner who's always willing to
 
 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, PostgreSql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with React, React Native, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning FrontEnd Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/praful-maurya).
 - 💬 Ask me about anything, I am happy to help;
-- 📫 &nbsp; How to reach me: salmanahmed1497@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/praful-maurya/praful-maurya/blob/main/SalmanResume.pdf).
+- 📫 &nbsp; How to reach me: work.praful4@gmail.com
 
 **Languages and Tools:** 
 
@@ -44,16 +43,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/html-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 </p>
 
