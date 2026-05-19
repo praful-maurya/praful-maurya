@@ -23,8 +23,8 @@ I'm a Javascript Developer💻. I'm a passionate learner who's always willing to
 
 
 
-- 🛠 &nbsp; I’m currently working with React, React Native, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning FrontEnd Development.
+- 🛠 &nbsp; I’m currently working with React, React Native, Javascript, Ai, etc.
+- 🚀 &nbsp; Total 4 years of experience in web/mobile app development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/praful-maurya).
 - 💬 Ask me about anything, I am happy to help;
 - 📫 &nbsp; How to reach me: work.praful4@gmail.com
